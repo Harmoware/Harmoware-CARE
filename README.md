@@ -4,7 +4,7 @@ The Repository for Caregiving and Human Activity Recognition.
 
 ## Links for Human Activity Recognition Challenges
 
-Please see https://abc-research.github.io for the latest links.
+Please see https://abc-research.github.io/#series for the latest links.
 
   - "Bento2021: Bento Packaging Activity Recognition Challenge at ABC2021"
     https://abc-research.github.io/bento2021
