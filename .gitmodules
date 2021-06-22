@@ -1,3 +1,15 @@
 [submodule "abc-research.github.io"]
 	path = abc-research.github.io
 	url = https://github.com/abc-research/abc-research.github.io.git
+[submodule "nurse2020"]
+	path = nurse2020
+	url = https://github.com/abc-research/nurse2020.git
+[submodule "cook2020"]
+	path = cook2020
+	url = https://github.com/abc-research/cook2020.git
+[submodule "nurse2021"]
+	path = nurse2021
+	url = https://github.com/abc-research/nurse2021.git
+[submodule "bento2021"]
+	path = bento2021
+	url = https://github.com/abc-research/bento2021.git
